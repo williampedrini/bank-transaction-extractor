@@ -8,7 +8,7 @@ import static java.lang.System.getProperty;
 import static org.junit.Assert.assertFalse;
 
 @SuppressWarnings("AccessOfSystemProperties")
-public class FindBankTransactionTest {
+public class FindBankTransactionITTest {
     /**
      * System property used to define the username to perform the login.
      */
